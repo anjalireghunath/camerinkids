@@ -1,0 +1,351 @@
+ .App {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: 0px;
+     border: 0px;
+ }
+
+ .container-top {
+     background-repeat: no-repeat;
+     object-fit: cover;
+     background-size: 100%;
+     width: 100%;
+     height: 100vh;
+     color: white;
+     background: linear-gradient(rgba(0, 0, 0, 0.4)50%, rgba(0, 0, 0, 0.4)50%), url(../components/images/background.jpg)
+ }
+
+ .size {
+     font-weight: bold;
+     font-size: 50px;
+
+ }
+
+ .styles {
+
+     font-family: sans-serif;
+ }
+
+ .location li img {
+     height: 22px;
+     width: 19px;
+     position: relative;
+     left: -29px;
+     top: 34px;
+ }
+ .location{
+    list-style: none;
+ }
+ .mythri{
+    font-size: 15px;
+    font-family: sans-serif;
+ }
+
+ .location span {
+     text-align: left;
+
+     width: 290px;
+ }
+
+ .col-lg-6 img {
+     height: 150px;
+     width: 150px;
+
+ }
+
+ .nav-item .colors{
+    color:black;
+ }
+ .logs{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+ }
+ .images{
+    display: flex;
+    position: relative;
+    left: 800px;
+    bottom: 40px;
+ }
+ .home{
+    color: red;
+    font-family: cursive;
+ }
+ .imgstyle{
+    height: 25px;
+    width: 25px;
+    margin-top: -24px;
+ }
+ .fblock{
+    color: white;
+    padding: 20px;
+ }
+ .blockclr{
+    color: white;
+ }
+ .sblock{
+    height: 25px;
+    width: 25px;
+    margin-top: -24px;
+ }
+ .sblockclr{
+    color: white;
+    padding: 20px;
+ }
+ .tblock{
+    color: white;
+    display: flex;
+    text-align: center;
+ }
+ .col-lg-6 .child{
+    width: 500px;
+    height: 400px;
+ }
+ .kidsabout{
+    width: 560px;
+    color: black;
+ }
+ .course{
+    color: white;
+    padding: 10px;
+ }
+ .pythonn{
+    width: 130px;
+    height: 130px;
+    padding: 20px;
+ }
+ .pyth{
+    color: blue;
+    padding: 20px;
+ }
+ .red{
+    margin: 50px;
+ }
+ .pygam{
+    width: 130px;
+    height: 130px;
+    padding: 20px;
+ }
+ .pygameclr{
+    color: green;
+    padding: 20px;
+ }
+ .pyg{
+    margin: 26px;
+ }
+ .websites{
+    width: 130px;
+    height: 130px;
+    padding: 20px;
+ }
+ .web{
+    color: green;
+    padding: 20px;
+ }
+ .orange{
+    margin: 50px;
+    color: white;
+ }
+ .websit{
+    width: 130px;
+    height: 130px;
+    padding:20px;
+ }
+ .last{
+    color: red;
+    padding: 20px;
+ }
+ .green{
+    margin: 30px;
+ }
+
+
+ .maindiv {
+     background-color: white;
+     border-radius: 50px;
+     height: 80px;
+     padding-top: 20px;
+
+ }
+
+ .images img {
+     width: 20px;
+     height: 20px;
+ }
+
+ .block1 {
+     display: inline-block;
+     width: 350px;
+     height: 450px;
+     padding: 5px;
+     background-color: red;
+
+ }
+
+ .pygame1 {
+     display: inline-block;
+     width: 350px;
+     height: 500px;
+     padding: 5px;
+     background-color: white;
+     border-radius: 10px;
+
+ }
+
+ .website1 {
+     display: inline-block;
+     width: 350px;
+     height: 500px;
+     padding: 5px;
+     background-color: white;
+     border-radius: 10px;
+ }
+
+ .python1 {
+     display: inline-block;
+     width: 350px;
+     height: 500px;
+     padding: 5px;
+     background-color: white;
+     border-radius: 10px;
+ }
+
+ .icon {
+     width: 50px;
+     height: 50px;
+     padding: 50px;
+     border-radius: 50%;
+     background-color: red;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: -34px
+ }
+
+ .wrap-icon {
+     display: flex;
+     justify-content: center;
+ }
+
+ .container-four {
+     padding: 100px;
+
+ }
+
+ .btn-custom-1 {
+    display: flex;
+    position: relative;
+    left: 350px;
+    
+    
+ }
+
+ .btn {
+     font-size: .8rem;
+     text-transform: uppercase;
+     letter-spacing: .2rem;
+     padding: 10px 20px;
+     text-decoration: none;
+ }
+
+ /* .home-icon{
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+    display: inline-block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+} */
+ .block2 {
+     margin-left: 10px;
+     display: inline-block;
+     width: 350px;
+     height: 450px;
+     padding: 5px;
+     background-color: orange;
+
+ }
+
+ .block3 {
+     margin-left: 20px;
+     display: inline-block;
+     width: 350px;
+     height: 450px;
+     padding: 5px;
+     background-color: rgb(0, 128, 122)
+ }
+ .container-six{
+    background-color: orange;
+    height: 150px;
+    margin-top: 100px;
+    display:flex;
+    justify-content:center;
+      align-items: center;
+ }
+ .startbtn{
+    display: flex;
+    position: relative;
+    left: 350px;
+ }
+
+ .container-seven {
+     width: 100%;
+     height: 700px;
+     background-color: #343a40;
+     padding: 100px;
+ }
+
+ .aboutsev {
+     color: red;
+     font-family: cursive;
+ }
+
+ .camerin {
+     color: white;
+     padding: 20px;
+     display: flex;
+     position: relative;
+     right: 21px;
+
+ }
+
+ .social-media {
+     display: flex;
+     position: relative;
+     width: 20px;
+     height: 20px;
+     margin-top: 50px;
+     gap: 50px;
+     right: -21px;
+ }
+
+ .navigate {
+     color: red;
+     margin-left: 200px;
+     font-family: cursive;
+ }
+
+ .design {
+     color: white;
+     list-style-type: none;
+     margin-left: 169px;
+ }
+
+ .border-top {
+     border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+     margin-top: 130px;
+ }
+
+ .bottom {
+     color: white;
+     margin-top: 50px;
+ }
+
+ 
+
+ 
